@@ -2,7 +2,7 @@
 
 ## Overview
 
-This collaborative project aims to develop a robust Question-Answering (QA) system for cloud computing, utilizing the RAG (Retrieval-Augmented Generation) model, Pinecone for vector embeddings, and Hugging Face Transformers for natural language processing. The system efficiently answers questions related to cloud computing by combining information retrieval and state-of-the-art language models.
+This colab notebook aims to develop a robust Question-Answering (QA) system for cloud computing, utilizing the RAG (Retrieval-Augmented Generation) model, Pinecone for vector embeddings, and Hugging Face Transformers for natural language processing. The system efficiently answers questions related to cloud computing by combining information retrieval and state-of-the-art language models.
 
 ## Features
 
